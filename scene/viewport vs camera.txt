@@ -1,0 +1,3 @@
+Viewport is basically the portion of the World that's visible on the Render Window. 
+
+Camera is used to move the Viewport around the World. 
